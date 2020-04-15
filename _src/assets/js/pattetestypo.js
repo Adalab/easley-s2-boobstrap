@@ -1,4 +1,5 @@
 //PALETAS
+'use strict';
 const cardContent = document.querySelector('.section__card-content');
 const byDflt = document.querySelector('.default');
 const orange = document.querySelector('.orange');

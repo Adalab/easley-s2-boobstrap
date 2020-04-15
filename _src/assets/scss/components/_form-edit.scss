@@ -185,6 +185,10 @@ fieldset {
 .skills{
   color: $color-dark-green-blue;
   font-family: $font-family-open;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 .container__skills{
@@ -192,6 +196,8 @@ fieldset {
   flex-direction: column;
   justify-content: flex-start;
   align-items: baseline;
+  text-transform: uppercase;
+  font-size: 14px;
 }
 
 .input-skills{
